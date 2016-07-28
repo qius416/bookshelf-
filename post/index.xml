@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shekhar Gulati Book Reviews </title>
-    <link>http://replace-this-with-your-hugo-site.com/post/</link>
+    <title>qiushi tes </title>
+    <link>https://qius416.github.io/bookshelf-/post/</link>
     <language>en-us</language>
-    <author>Shekhar Gulati</author>
+    <author>qius416</author>
     <rights>(C) 2016</rights>
     <updated>2016-07-28 15:03:29 &#43;0900 JST</updated>
 
@@ -12,10 +12,10 @@
       
         <item>
           <title>good to great</title>
-          <link>http://replace-this-with-your-hugo-site.com/post/good-to-great/</link>
+          <link>https://qius416.github.io/bookshelf-/post/good-to-great/</link>
           <pubDate>Thu, 28 Jul 2016 15:03:29 JST</pubDate>
-          <author>Shekhar Gulati</author>
-          <guid>http://replace-this-with-your-hugo-site.com/post/good-to-great/</guid>
+          <author>qius416</author>
+          <guid>https://qius416.github.io/bookshelf-/post/good-to-great/</guid>
           <description>&lt;p&gt;I read &lt;strong&gt;Good to Great in January 2016&lt;/strong&gt;. An awesome read sharing detailed analysis on how good companies became great.&lt;/p&gt;
 </description>
         </item>
