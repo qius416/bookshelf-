@@ -3,6 +3,12 @@
   
   <url>
     <loc>http://replace-this-with-your-hugo-site.com/</loc>
+    <lastmod>2016-07-28T15:03:29+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://replace-this-with-your-hugo-site.com/post/good-to-great/</loc>
+    <lastmod>2016-07-28T15:03:29+09:00</lastmod>
   </url>
   
 </urlset>
